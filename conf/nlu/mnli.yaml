@@ -1,0 +1,6 @@
+task_name: MNLI
+data_dir: resources/Mirror/mrc/MNLI
+train_filepath: ${data_dir}/train.jsonl
+dev_filepath: ${data_dir}/dev.jsonl
+test_filepath: ${data_dir}/dev.jsonl
+best_metric_field: cls.acc

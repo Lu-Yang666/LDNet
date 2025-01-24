@@ -1,0 +1,3 @@
+task_name: Rel_NYT
+data_dir: resources/Mirror/uie/rel/nyt
+best_metric_field: rel.rel.micro.f1

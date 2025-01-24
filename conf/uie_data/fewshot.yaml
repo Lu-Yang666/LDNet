@@ -1,0 +1,6 @@
+num_epochs: 200
+epoch_patience: 10
+output_dir: LDNet_fewshot_outputs
+base_model_path: LDNet_outputs/LDNet_Pretrain/ckpt/SchemaGuidedInstructBertModel.best.pth
+save_every_ckpt: false
+fewshot: true
