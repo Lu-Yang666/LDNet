@@ -2,8 +2,9 @@
   
 # LDNet
 **Label Drop for Multi-Aspect Relation Modeling in Universal Information Extraction**
+
 <a href='https://huggingface.co/Downton/LDNet_Pretrain'><img src='https://img.shields.io/badge/Huggingface-Model-FFCC33'></a>
-<a href='https://arxiv.org/abs/2502.12614'><img src='https://img.shields.io/badge/Paper-PDF-DC322F'></a>
+<a href='https://arxiv.org/abs/2502.12614'><img src='https://img.shields.io/badge/Paper-PDF-Orange'></a>
 </div>
 
 ## Requirements
