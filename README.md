@@ -1,6 +1,10 @@
+<div align="center">
+  
 # LDNet
-
-- Code for ``Label Drop for Multi-Aspect Relation Modeling in Universal Information Extraction``
+**Label Drop for Multi-Aspect Relation Modeling in Universal Information Extraction**
+<a href='https://huggingface.co/Downton/LDNet_Pretrain'><img src='https://img.shields.io/badge/Huggingface-Model-FFCC33'></a>
+<a href='https://arxiv.org/abs/2502.12614'><img src='https://img.shields.io/badge/Paper-PDF-DC322F'></a>
+</div>
 
 ## Requirements
 - Environment
@@ -50,4 +54,20 @@ bash MIE.sh
 
 ```
 rex train -m src.task -dc conf/Pretrain_ld.yaml
+```
+
+## Citation
+
+If you find our model/code/paper helpful, please consider cite our paper 📝 and star us ⭐️！
+
+```bibtex
+@misc{yang2025labeldropmultiaspectrelation,
+      title={Label Drop for Multi-Aspect Relation Modeling in Universal Information Extraction}, 
+      author={Lu Yang and Jiajia Li and En Ci and Lefei Zhang and Zuchao Li and Ping Wang},
+      year={2025},
+      eprint={2502.12614},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2502.12614}, 
+}
 ```
